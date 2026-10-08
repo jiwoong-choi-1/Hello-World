@@ -29,6 +29,8 @@ Microsoft Excel and Word Documents
 - List filenames
 - Business Analytics Project.docx
 - teen_phone_addction_dataset.xlsx
+- URL links to the file we used:
+  [Teen Smartphone Usage and Addiction Impact Dataset] (https://www.kaggle.com/datasets/sumedh1507/teen-phone-addiction)
 
 ## How to run program
 
@@ -37,8 +39,10 @@ Microsoft Excel and Word Documents
 
 ## Additional Information
 
-Course: BAIS: 2800 (University of Iowa, Tippie College of Business)
+**Course**: BAIS: 2800 (***University of Iowa, Tippie College of Business***)
 
 Team Members: Bennet Boghossian, Jiwoong Choi, Dylan Heater, and Jocelyn Vauk
 
-Data Source: Kaggle Open Data Portal (Teen Phone Addiction)
+Data Source: Kaggle Open Data Portal (Teen Phone Addiction)\
+
+~~Just for Practice~~
